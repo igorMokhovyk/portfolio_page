@@ -1,0 +1,79 @@
+/*!* CSS HEX *!*/
+/*--imperial-red: #e63946ff;*/
+/*--honeydew: #f1faeeff;*/
+/*--powder-blue: #a8dadcff;*/
+/*--celadon-blue: #457b9dff;*/
+/*--prussian-blue: #1d3557ff;*/
+
+
+
+
+
+/*Global Styles*/
+img {
+    width: 300px;
+}
+body {
+    color: #343434;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;;
+}
+a {
+    color: bisque;
+}
+a:hover {
+    text-decoration: none;
+}
+h2 {
+    margin: 0;
+}
+h1, h2 {
+    font-family: 'Caveat', cursive;
+}
+.content-wrap {
+    width: 900px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+/*Profile*/
+header {
+    background: #a8dadcff;
+}
+
+/*Projects*/
+.projects {
+    background: #f1faeeff;
+}
+.projects a {
+
+}
+.projects a {
+    color: cadetblue;
+    background: burlywood;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects a:hover {
+    background: rgba(47, 48, 97, 80);
+}
+
+/*work*/
+.work-experience {
+    background: #e63946ff;
+    color: #F7FFF7;
+}
+
+/*education*/
+.education {
+    background: #1d3557ff;
+    color: azure;
+}
+
+/*education*/
+footer {
+    background: #343434;
+    color: #F7FFF7;
+}
